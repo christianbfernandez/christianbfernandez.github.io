@@ -2,10 +2,18 @@
 
 @media only screen and (max-width: 768px){
 
- /* .banner{
-	background: url("img/profilesm.jpg") !important;
-	background-position: right;
- } */
+
+	#myname{
+		display: none !important;
+	 }
+	 .banner{
+	
+		background: url("img/profilesm.jpg") !important;
+	   background-size: cover;
+	   background-position: center !important;
+	   background-repeat: no-repeat;
+	 } 
+	
 
 
 }
